@@ -25,6 +25,9 @@ I am a professional team member and leader experienced in modern measurement tec
 *	JIRA (Basics)
 *	TestLink (Basics)
 *	Postman (Basics)
+*	REST API
+*	GitHub
+*	Trello
 *	UltraMap
 *	AEROoffice
 *	GrafNav 
@@ -56,3 +59,14 @@ I am a professional team member and leader experienced in modern measurement tec
 * [Norbert Jankowski - Testowanie Oprogramowania](https://www.youtube.com/c/JankowskiNorbert)
 ## IT groups :people_hugging:
 ## My projects :floppy_disk:
+* [Cherry-IT: COLT 1/2023](https://github.com/agskwira/Colt1-restApi)
+<details>
+ <summary>The scope of work:</summary>
+* getting to know the basic knowledge of REST API
+* getting to know the Postman tool
+* creating your own collections base d on Trello documentation
+* learning to report bugs
+* learning to create test cases,
+* learning GIT (commity, PR) and getting acquainted with github
+</summary>
+   
