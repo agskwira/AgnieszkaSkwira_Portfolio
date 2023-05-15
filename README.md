@@ -5,7 +5,7 @@ I am a professional team member and leader experienced in modern measurement tec
 
 ## Internship
 <details>   
-* <summary> Coffedesk, Szczecin <summary>
+* <summary> Coffedesk, Szczecin </summary>
 </details>
 
 ## Courses
