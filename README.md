@@ -60,5 +60,7 @@ I am a professional team member and leader experienced in modern measurement tec
 ## IT groups :people_hugging:
 ## My projects :floppy_disk:
 * [Cherry-IT: COLT 1/2023](https://github.com/agskwira/Colt1-restApi)
+* [Dare IT Introduction to Automated Tests](https://github.com/agskwira/Challenge_portfolio_Aga)
+* [Dare IT Become a Manual Tester](https://github.com/agskwira/challenge_portfolio_Agnieszka/blob/main/README.md)
 
    
