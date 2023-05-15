@@ -20,9 +20,38 @@ I am a professional team member and leader experienced in modern measurement tec
 
 
 ## Tools & Technologies :woman_technologist:
+
+* SQL (Basics)
+*	JIRA (Basics)
+*	TestLink (Basics)
+*	Postman (Basics)
+*	UltraMap
+*	AEROoffice
+*	GrafNav 
+*	GIS software
+*	CAD software
+
 ## Technical skills 	:computer:
+
+*	Manual testing 
+*	Reporting bugs
+*	Writing test cases
+*	Creating test scenarios
+
 ## Soft skills :raised_hand_with_fingers_splayed:
+
+* Troubleshooting
+* Analytical thinking
+*	Working in a team
+*	Focusing on the detail
+
 ## Books :open_book:
 ## Blogs :tv:
+* [Testerzy pl](testerzy.pl)
+* [Testelka](https://testelka.pl/)
+* [Cherry IT](http://cherry-it.pl/)
+* [Dare IT](https://www.dareit.io/)
+* [Mamo pracuj](https://mamopracuj.pl/)
+* 
 ## IT groups :people_hugging:
 ## My projects :floppy_disk:
