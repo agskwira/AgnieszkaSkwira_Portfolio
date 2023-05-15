@@ -5,6 +5,8 @@ I am a professional team member and leader experienced in modern measurement tec
 
 ## Courses
 
+* Dare IT Introduction to Automated Tests
+* Dare IT Become a Manual Tester
 * Utest Academy Utest Nov 2022 - Feb 2023
 *	The complete SQL Bootcamp: Go from zero to hero Udemy Jan 2023 - Feb 2023
 *	ISTQB® Certified Tester Inprogress - Aug 2022
