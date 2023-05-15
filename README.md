@@ -60,8 +60,9 @@ I am a professional team member and leader experienced in modern measurement tec
 ## IT groups :people_hugging:
 ## My projects :floppy_disk:
 * [Cherry-IT: COLT 1/2023](https://github.com/agskwira/Colt1-restApi)
-<details>
- <summary>The scope of work:</summary>
+  <details>
+  <summary>The scope of work:</summary>
+ 
 * getting to know the basic knowledge of REST API
 * getting to know the Postman tool
 * creating your own collections base d on Trello documentation
