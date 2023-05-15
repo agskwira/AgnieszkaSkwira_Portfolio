@@ -18,9 +18,9 @@ I am a professional team member and leader experienced in modern measurement tec
 *	Software Tester Credential Id 34764129972085 International Software Test Institute™ June 2019
 *	PRINCE2® Foundation Certification In Project Management Credential Id GR633101301AS Axelos Global Best Practice Mar 2018
 
-## TOOLS & TECHNOLOGIES
-## TECHNICAL SKILLS
-## SOFT SKILLS
+## Tools & Technologies
+## Technical skills
+## Soft skills
 ## Books
 ## Blogs
 ## IT groups 
