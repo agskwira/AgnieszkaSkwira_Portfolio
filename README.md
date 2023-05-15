@@ -48,6 +48,7 @@ I am a professional team member and leader experienced in modern measurement tec
 *	Reporting bugs
 *	Writing test cases
 *	Creating test scenarios
+*	Creating tests report
 
 ## Soft skills :raised_hand_with_fingers_splayed:
 
