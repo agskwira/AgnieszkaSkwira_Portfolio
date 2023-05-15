@@ -14,8 +14,8 @@ I am a professional team member and leader experienced in modern measurement tec
 * Dare IT Become a Manual Tester - June 2023
 * Dare IT Introduction to Automated Tests - May 2023
 * Utest Academy Utest Nov 2022 - Feb 2023
-*	The complete SQL Bootcamp: Go from zero to hero Udemy Jan 2023 - Feb 2023
-*	ISTQB® Certified Tester Inprogress - Aug 2022
+* The complete SQL Bootcamp: Go from zero to hero Udemy Jan 2023 - Feb 2023
+* ISTQB® Certified Tester Inprogress - Aug 2022
 * Software Testing Net Camp Oct 2018 - Apr 2019
 * SCRUM Cours Net Camp - Oct 2019
 
@@ -29,13 +29,15 @@ I am a professional team member and leader experienced in modern measurement tec
 
 ## Tools & Technologies :woman_technologist:
 
-* SQL (Basics)
+*  SQL (Basics)
 *	JIRA (Basics)
 *	TestLink (Basics)
 *	Postman (Basics)
 *	REST API
 *	GitHub
 *	Trello
+*	ClickUP
+*	Slack
 *	UltraMap
 *	AEROoffice
 *	GrafNav 
