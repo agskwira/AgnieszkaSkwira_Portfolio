@@ -19,10 +19,10 @@ I am a professional team member and leader experienced in modern measurement tec
 *	:link:[PRINCE2® Foundation Certification In Project Management Credential Id GR633101301AS Axelos Global Best Practice Mar 2018](https://drive.google.com/file/d/1uGiofzWF5M94AF_fW6UUav4WQxvfgAPb/view?usp=share_link)
 
 
-## Tools & Technologies
-## Technical skills
-## Soft skills
-## Books
-## Blogs
-## IT groups 
-## My projects
+## Tools & Technologies :woman_technologist:
+## Technical skills 	:computer:
+## Soft skills :raised_hand_with_fingers_splayed:
+## Books :open_book:
+## Blogs :tv:
+## IT groups :people_hugging:
+## My projects :floppy_disk:
