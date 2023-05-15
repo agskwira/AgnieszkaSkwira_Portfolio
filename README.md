@@ -53,6 +53,6 @@ I am a professional team member and leader experienced in modern measurement tec
 * [Cherry IT](http://cherry-it.pl/)
 * [Dare IT](https://www.dareit.io/)
 * [Mamo pracuj](https://mamopracuj.pl/)
-* 
+* [Norbert Jankowski - Testowanie Oprogramowania](https://www.youtube.com/c/JankowskiNorbert)
 ## IT groups :people_hugging:
 ## My projects :floppy_disk:
