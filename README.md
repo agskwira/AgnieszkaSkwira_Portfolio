@@ -5,11 +5,11 @@ I am a professional team member and leader experienced in modern measurement tec
 
 ## Courses
 
-* Utest Academy Utest Nov 2022 -Feb 2023
+* Utest Academy Utest Nov 2022 - Feb 2023
 *	The complete SQL Bootcamp: Go from zero to hero Udemy Jan 2023 - Feb 2023
-*	ISTQB® Certified Tester Inprogress Aug 2022
-* Software Testing Net Camp Oct 2018 – Apr 2019
-* SCRUM Cours Net Camp Oct 2019
+*	ISTQB® Certified Tester Inprogress - Aug 2022
+* Software Testing Net Camp Oct 2018 - Apr 2019
+* SCRUM Cours Net Camp - Oct 2019
 
 ## Certificates
 
