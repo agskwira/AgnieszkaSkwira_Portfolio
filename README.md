@@ -46,7 +46,8 @@ I am a professional team member and leader experienced in modern measurement tec
 *	Focusing on the detail
 
 ## Books :open_book:
-## Blogs :tv:
+* Certyfikowany tester ISTQB. Poziom podstawowy Roman Adam Stapp Lucjan
+## Blogs, Videoblogs, Podcast :tv:
 * [Testerzy pl](testerzy.pl)
 * [Testelka](https://testelka.pl/)
 * [Cherry IT](http://cherry-it.pl/)
