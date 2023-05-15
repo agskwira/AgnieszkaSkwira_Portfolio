@@ -4,9 +4,8 @@
 I am a professional team member and leader experienced in modern measurement techniques. In my work, I faced QC and QA tasks. I also worked closely with developers in order to adjust the software to the team and organization’s needs. I love constant development and I easily adapt to new situations. I love working with software and Improving it. That's why I decided to change my career path.  I’m open to new testing challenges, and in the future, I would like to develop myself in the field of test automation.
 
 ## Internship
-<details>
-   
-*<summary> Coffedesk, Szczecin <summary>
+<details>   
+* <summary> Coffedesk, Szczecin <summary>
 </details>
 
 ## Courses
