@@ -6,6 +6,7 @@ I am a professional team member and leader experienced in modern measurement tec
 ## Internship
 <details>   
 <summary> Coffedesk, Szczecin - April 2023 - present  </summary>
+   
  * manually testing 
  * reporting bugs
 </details>
