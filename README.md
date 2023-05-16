@@ -71,7 +71,7 @@ I am a professional team member and leader experienced in modern measurement tec
 * [Dare IT](https://www.dareit.io/)
 * [Mamo pracuj](https://mamopracuj.pl/)
 * [Norbert Jankowski - Testowanie Oprogramowania](https://www.youtube.com/c/JankowskiNorbert)
-## IT groups :people_hugging:
+## Social IT groups :people_hugging:
 * Testowanie oprogramowania
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania - PRACA, Ogłoszenia
