@@ -81,7 +81,7 @@ I am a professional team member and leader experienced in modern measurement tec
 * [Dare IT Introduction to Automated Tests](https://github.com/agskwira/Challenge_portfolio_Aga)
 * [Dare IT Become a Manual Tester](https://github.com/agskwira/challenge_portfolio_Agnieszka/blob/main/README.md)
 
-##Linkedin
+## My Linkedin
 
 www.linkedin.com/in/askwira
 
