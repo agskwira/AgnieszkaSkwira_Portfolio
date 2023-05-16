@@ -5,7 +5,9 @@ I am a professional team member and leader experienced in modern measurement tec
 
 ## Internship
 <details>   
-* <summary> Coffedesk, Szczecin </summary>
+<summary> Coffedesk, Szczecin - April 2023 - present  </summary>
+* manually testing 
+* reporting bugs
 </details>
 
 ## Courses
@@ -29,10 +31,10 @@ I am a professional team member and leader experienced in modern measurement tec
 
 ## Tools & Technologies :woman_technologist:
 
-*  SQL (Basics)
-*	JIRA (Basics)
-*	TestLink (Basics)
-*	Postman (Basics)
+*  SQL 
+*	JIRA 
+*	TestLink 
+*	Postman 
 *	REST API
 *	GitHub
 *	Trello
@@ -69,6 +71,10 @@ I am a professional team member and leader experienced in modern measurement tec
 * [Mamo pracuj](https://mamopracuj.pl/)
 * [Norbert Jankowski - Testowanie Oprogramowania](https://www.youtube.com/c/JankowskiNorbert)
 ## IT groups :people_hugging:
+* Testowanie oprogramowania
+* Tester oprogramowania - wsparcie na starcie
+* Testowanie oprogramowania - PRACA, Ogłoszenia
+* Dostępność [web accessibility]
 ## My projects :floppy_disk:
 * [Cherry-IT: COLT 1/2023](https://github.com/agskwira/Colt1-restApi)
 * [Dare IT Introduction to Automated Tests](https://github.com/agskwira/Challenge_portfolio_Aga)
