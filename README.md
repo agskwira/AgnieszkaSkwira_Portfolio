@@ -50,10 +50,10 @@ I am a professional team member and leader experienced in modern measurement tec
 
 *  SQL
 *	Manual testing 
-*	Reporting bugs
-*	Writing test cases
+*	Reporting bugs [Bug report example](https://docs.google.com/spreadsheets/d/1xSeHVgHfjHilGcWbqVagT-oJvZXe5Su4bsqHYpNS4-I/edit?usp=drive_link)
+*	Writing test cases [Test case example](https://docs.google.com/spreadsheets/d/134noooR1Z6IQK7ywN1-JaquA1C6fzejA/edit?usp=drive_link&ouid=101471762458599150702&rtpof=true&sd=true)
 *	Creating test scenarios
-*	Creating tests report
+*	Creating tests report [Test report example](https://docs.google.com/spreadsheets/d/1fRZP7MfdG9GO1nnrfrsnv-x_iL6daoWyTxRKKpJ5MBE/edit?usp=drive_link)
 
 ## Soft skills :raised_hand_with_fingers_splayed:
 
