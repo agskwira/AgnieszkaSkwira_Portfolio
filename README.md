@@ -31,8 +31,7 @@ I am a professional team member and leader experienced in modern measurement tec
 
 
 ## Tools & Technologies :woman_technologist:
-
-*  SQL 
+ 
 *	JIRA 
 *	TestLink 
 *	Postman 
@@ -49,6 +48,7 @@ I am a professional team member and leader experienced in modern measurement tec
 
 ## Technical skills 	:computer:
 
+*  SQL
 *	Manual testing 
 *	Reporting bugs
 *	Writing test cases
@@ -65,12 +65,13 @@ I am a professional team member and leader experienced in modern measurement tec
 ## Books :open_book:
 * Certyfikowany tester ISTQB. Poziom podstawowy Roman Adam Stapp Lucjan
 ## Blogs, Videoblogs, Podcast :tv:
-* [Testerzy pl](testerzy.pl)
+* [Testerzy.pl](testerzy.pl/)
 * [Testelka](https://testelka.pl/)
 * [Cherry IT](http://cherry-it.pl/)
 * [Dare IT](https://www.dareit.io/)
 * [Mamo pracuj](https://mamopracuj.pl/)
-* [Norbert Jankowski - Testowanie Oprogramowania](https://www.youtube.com/c/JankowskiNorbert)
+* [Norbert Jankowski - Testowanie Oprogramowania](https://www.youtube.com/c/JankowskiNorbert/)
+* [Akasemia QA](https://www.youtube.com/@akademiaqa/)
 ## Social IT groups :people_hugging:
 * Testowanie oprogramowania
 * Tester oprogramowania - wsparcie na starcie
