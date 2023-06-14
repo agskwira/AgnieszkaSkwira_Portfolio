@@ -24,8 +24,8 @@ I am a professional team member and leader experienced in modern measurement tec
 * SCRUM Cours Net Camp - Oct 2019
 
 ## Certificates
-*	:link:[Certificate of Completion Dare IT Challenge: Automated Testing + Python - June 2023](https://drive.google.com/file/d/1Y3gPh8ke9Y2RL8W00bd8Qdl0T8lYfgUd/view?usp=sharing)
-* :link:[The complete SQL Bootcamp: Go from zero to hero Udemy - Feb 2023](https://drive.google.com/file/d/1AUxCA65mwlf65KSzZ6umHo31Jrl4-kJi/view?usp=share_link)
+*	:link:[Certificate of Completion Dare IT Challenge: Automated Testing + Python June 2023](https://drive.google.com/file/d/1Y3gPh8ke9Y2RL8W00bd8Qdl0T8lYfgUd/view?usp=sharing)
+* :link:[The complete SQL Bootcamp: Go from zero to hero Udemy Feb 2023](https://drive.google.com/file/d/1AUxCA65mwlf65KSzZ6umHo31Jrl4-kJi/view?usp=share_link)
 * :link:[ISTQB® Certified Tester Foundation Level Credential Id 18957/Ctfl/2022 SJSI  Oct 2022](https://drive.google.com/file/d/1_3rRg2SZkaJavhS5CoCxzqWVwB8SEsfD/view?usp=share_link)
 *	:link:[SCRUM Team Member Accredited Certification™ Credential Id 88921198762021 International Scrum Institute™ Oct 2019](https://drive.google.com/file/d/1sj4HvCzgBr1WAO3i68lcPUpXH7LUBNYu/view?usp=share_link)
 * :link:[Software Tester Credential Id 34764129972085 International Software Test Institute™ June 2019](https://drive.google.com/file/d/1IMMUw5VV8L2YS3s541ExwQCyQjm7hJPQ/view?usp=share_link)
