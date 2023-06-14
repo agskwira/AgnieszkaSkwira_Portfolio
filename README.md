@@ -23,6 +23,7 @@ I am a professional team member and leader experienced in modern measurement tec
 * SCRUM Cours Net Camp - Oct 2019
 
 ## Certificates
+*	:link:[Certificate of Completion Dare IT Challenge: Automated Testing + Python](https://drive.google.com/file/d/1Y3gPh8ke9Y2RL8W00bd8Qdl0T8lYfgUd/view?usp=sharing)
 * :link:[The complete SQL Bootcamp: Go from zero to hero Udemy - Feb 2023](https://drive.google.com/file/d/1AUxCA65mwlf65KSzZ6umHo31Jrl4-kJi/view?usp=share_link)
 * :link:[ISTQB® Certified Tester Foundation Level Credential Id 18957/Ctfl/2022 SJSI  Oct 2022](https://drive.google.com/file/d/1_3rRg2SZkaJavhS5CoCxzqWVwB8SEsfD/view?usp=share_link)
 *	:link:[SCRUM Team Member Accredited Certification™ Credential Id 88921198762021 International Scrum Institute™ Oct 2019](https://drive.google.com/file/d/1sj4HvCzgBr1WAO3i68lcPUpXH7LUBNYu/view?usp=share_link)
@@ -30,21 +31,23 @@ I am a professional team member and leader experienced in modern measurement tec
 *	:link:[PRINCE2® Foundation Certification In Project Management Credential Id GR633101301AS Axelos Global Best Practice Mar 2018](https://drive.google.com/file/d/1uGiofzWF5M94AF_fW6UUav4WQxvfgAPb/view?usp=share_link)
 
 
+
 ## Tools & Technologies :woman_technologist:
  
-*	JIRA 
-*	TestLink 
+*	JIRA
+*	Trello
+*	ClickUP
+*	TestLink
+*	Slack
 *	Postman 
 *	REST API
 *	GitHub
-*	Trello
-*	ClickUP
-*	Slack
-*	UltraMap
-*	AEROoffice
-*	GrafNav 
-*	GIS software
-*	CAD software
+*  Xampp
+*  MySQL
+*  Selenium WebDriver+Python 3
+*  PyCharm
+*  Chrome DevTools
+*  Robot Framework
 
 ## Technical skills 	:computer:
 
