@@ -49,6 +49,8 @@ I am a professional team member and leader experienced in modern measurement tec
 *  PyCharm
 *  Chrome DevTools
 *  Robot Framework
+*  Azure DevOps
+*  Gherkin
 
 ## Technical skills 	:computer:
 
